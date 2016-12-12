@@ -1,7 +1,7 @@
 # videoConverter
 convert video to sequential images using OpenCV
 mini opencv program 
-**his one is a modification of OpenCV 2.4 demo, start_video**
+**This one is a modification of OpenCV 2.4 demo, start_video**
 ### Usage
 ```bash
 $ mkdir build
