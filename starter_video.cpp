@@ -90,7 +90,7 @@ int main(int ac, char** av) {
     }
     std::string arg = av[1];
     VideoCapture capture(arg); 
-    if (!capture.isOpened()); 
+    if (!capture.isOpened())
 	{
 	cout << " no such file called: " << arg <<endl;
 	return 1;
